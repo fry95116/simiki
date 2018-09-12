@@ -46,6 +46,9 @@ Update:
 
 	pip install -U simiki
 
+Install from local file
+
+	python setup.py install
 
 ## Quick Start ##
 
